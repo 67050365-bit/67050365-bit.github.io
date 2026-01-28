@@ -1,0 +1,27 @@
+h1{
+    display: block;
+    font: medium;
+    font-weight:  bold;
+    color: rgb(0, 0, 0);
+}
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius:50%;
+    object-fit: cover;
+    border: 5px solid #000000;
+}
+
+button{
+    padding: 12PX 25PX;
+    font-size: 16px;
+    background-color: aliceblue;
+    color: aqua;
+    border-radius: 8px;
+    cursor: pointer;
+}
